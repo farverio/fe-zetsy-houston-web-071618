@@ -23,3 +23,7 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   font-size: 5em;
 }
+
+header a {
+  color: rgb(152,173,166);
+}
