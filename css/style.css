@@ -60,3 +60,8 @@ p {
   text-align: right;
   margin: 20px 0 20px 0;
 }
+
+#featured a {
+  color: #1783bb;
+  text text-decoration: none;
+}
